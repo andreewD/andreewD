@@ -1,6 +1,6 @@
 ### Hi there, I'm Andree - aka andr33wD 👋
 
-[![website](https://img.shields.io/website?label=andr33wD.xyz&style=for-the-badge&url=https%3A%2F%2Fandr33wD.xyz)](https://github.com/andreewD)
+[![website](https://img.shields.io/website?label=andr33wD.xyz&style=for-the-badge&url=https://andreewd.github.io/)](https://andreewd.github.io/)
 
 
 ## I'm a computer science student with interests in cybersecurity and blockchain
